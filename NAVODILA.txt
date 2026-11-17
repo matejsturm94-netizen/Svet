@@ -1,0 +1,14 @@
+MOJ SVET 2.0
+
+1. Na GitHubu odpri repozitorij Svet, če je tam objavljena tvoja aplikacija.
+2. V korensko mapo naloži index.html, sw.js, manifest.webmanifest in icon.svg.
+3. Commit changes.
+4. Po objavi osveži aplikacijo v Chromu.
+
+ZAPISKI: Ohranjena je ista IndexedDB baza moj-svet-v1. Pred nadgradnjo izvozi varnostno kopijo.
+
+GLAS: Prepoznavanje govora v Chromu je odvisno od podpore naprave in lahko uporablja spletne storitve. Za brezplačen vnos lahko uporabiš mikrofon tipkovnice Gboard.
+
+CHATGPT: Gumb kopira pripravljen poziv in odpre ChatGPT; odgovor se ne shrani samodejno.
+
+RAZVRŠČANJE: Lokalna pravila po ključnih besedah, ne umetna inteligenca.
