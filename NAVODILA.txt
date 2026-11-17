@@ -1,14 +1,11 @@
-MOJ SVET 2.0
+MOJ SVET 3.0
 
-1. Na GitHubu odpri repozitorij Svet, če je tam objavljena tvoja aplikacija.
-2. V korensko mapo naloži index.html, sw.js, manifest.webmanifest in icon.svg.
-3. Commit changes.
-4. Po objavi osveži aplikacijo v Chromu.
+1. Najprej v trenutni aplikaciji izvozi varnostno kopijo.
+2. Na GitHub v repozitorij Svet nalozi in zamenjaj index.html in sw.js; ostale datoteke lahko ostanejo.
+3. Pocakaj na objavo GitHub Pages in osvezi aplikacijo.
+4. Vpisi ali povej misel, klikni Uredi misel, nato Razvij s ChatGPT.
+5. ChatGPT se odpre v novem zavihku, navodilo se poskusa kopirati. Prilepi in poslji.
+6. Kopiraj odgovor, vrni se v Moj svet, klikni Uporabi kopirano, nato Shrani ali Spremeni.
 
-ZAPISKI: Ohranjena je ista IndexedDB baza moj-svet-v1. Pred nadgradnjo izvozi varnostno kopijo.
-
-GLAS: Prepoznavanje govora v Chromu je odvisno od podpore naprave in lahko uporablja spletne storitve. Za brezplačen vnos lahko uporabiš mikrofon tipkovnice Gboard.
-
-CHATGPT: Gumb kopira pripravljen poziv in odpre ChatGPT; odgovor se ne shrani samodejno.
-
-RAZVRŠČANJE: Lokalna pravila po ključnih besedah, ne umetna inteligenca.
+Opomba: brez API-ja ni mogoce avtomatsko poslati poziva v ChatGPT ali samodejno prebrati odgovora.
+Vsi zapisi ostanejo v lokalni bazi IndexedDB na isti domeni.
